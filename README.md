@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pki03" alt="pki03" /></a> </p>
 
-- 🔭 I’m currently working on **natural2SQL**
+- 🔭 I’m currently working on **rapidpay**
 
 - 💬 Ask me about **react**
 
