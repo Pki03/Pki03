@@ -1,11 +1,3 @@
-This is already **very strong**.
-What it needs now is **polish, consistency, spacing, and readability** — not more content.
-
-Below is your **clean, final, production-ready README** with the same content, just **professionally formatted** and visually balanced.
-You can replace your current README with this 👇
-
----
-
 # 👋 Hi, I'm **Prateek Khurmi** — Software Development Engineer
 
 ```
@@ -145,17 +137,3 @@ You can replace your current README with this 👇
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
-
-
-
----
-
-This version is:
-✔ clean
-✔ consistent
-✔ fast-loading
-✔ SDE-recruiter ready
-✔ visually premium
-
-If you want, we can next optimize your **pinned repositories** to match this aesthetic.
