@@ -236,36 +236,32 @@
 
 ## 🏆 Competitive Programming
 
+<br/>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        <br/><br/>
-        <a href="https://leetcode.com/u/khurmi_03/">
-          <img src="https://leetcard.jacoblin.cool/khurmi_03?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" />
-        </a>
-        <br/><br/>
-        <a href="https://leetcode.com/u/khurmi_03/">
-          <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcodeapi.vercel.app%2Fapi%2Fuser%2Fkhurmi_03%2Ftotal" />
-        </a>
-        <a href="https://leetcode.com/u/khurmi_03/">
-          <img src="https://img.shields.io/badge/Ranking-View%20Profile-blue?style=flat-square&logo=leetcode" />
-        </a>
-      </td>
-      <td align="center" width="50%" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <br/><br/>
-        <a href="https://codeforces.com/profile/khurmiprateek3">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=khurmiprateek3&theme=dark&disable_animations=false&border_radius=10" />
-        </a>
-        <br/><br/>
-        <a href="https://codeforces.com/profile/khurmiprateek3">
-          <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=khurmiprateek3&theme=dark&border_radius=10" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://leetcode.com/u/khurmi_03/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://leetcode.com/u/khurmi_03/">
+  <img src="https://leetcard.jacoblin.cool/khurmi_03?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" />
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/khurmiprateek3">
+  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/khurmiprateek3">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=khurmiprateek3&theme=dark&disable_animations=false&border_radius=10" />
+</a>
+<br/>
+<a href="https://codeforces.com/profile/khurmiprateek3">
+  <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=khurmiprateek3&theme=dark&border_radius=10" />
+</a>
+
 </div>
 
 ---
