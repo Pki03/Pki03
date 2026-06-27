@@ -84,7 +84,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pki03&theme=github_dark" width="700" alt="overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pki03&theme=github_dark" alt="overview" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Pki03&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
