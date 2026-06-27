@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<br/>
+
+<div align="center">
 
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
@@ -75,24 +75,19 @@
 │    • AI Research @ DRDO (INMAS) — 91% accuracy CNN       │
 │    • Production-grade distributed systems                │
 │                                                          │
-│  FUN FACT: "I debug like I'm solving a cold case 🕵️"    │
+│  FUN FACT: "I debug like I'm solving a cold case"        │
 └─────────────────────────────────────────────────────────┘
 ```
 
-    </td>
-    <td width="38%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjViNWUyNDQ0NTkyODM1OGFhM2U1ZjBiODc0Yj BlMGUyYzliYzA2ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
-      <br/><br/>
-      <a href="https://github.com/Pki03">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pki03&theme=github_dark" width="420" alt="overview" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Pki03">
-        <img src="https://github-profile-trophy.vercel.app/?username=Pki03&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pki03&theme=github_dark" width="700" alt="overview" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pki03&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
 
 ---
 
