@@ -309,39 +309,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Pki03/spring-boot-based-microservices">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pki03&repo=spring-boot-based-microservices&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Pki03/hookforge">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pki03&repo=hookforge&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Pki03/lead_gen_agent">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pki03&repo=lead_gen_agent&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Pki03/scalable_rate_limiter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pki03&repo=scalable_rate_limiter&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=2" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 <p align="center">
